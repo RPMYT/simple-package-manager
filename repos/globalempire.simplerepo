@@ -11,3 +11,4 @@ Package "openupt" At "https://raw.githubusercontent.com/RPMYT/simple-package-man
 Package "gdns" At "https://raw.githubusercontent.com/RPMYT/simple-package-manager/master/packages/globalempire/gdns.simple"
 Package "gdns-server" At "https://raw.githubusercontent.com/RPMYT/simple-package-manager/master/packages/globalempire/gdns-server.simple"
 Package "buttons" At "https://raw.githubusercontent.com/RPMYT/simple-package-manager/master/packages/globalempire/buttons.simple"
+Key 98903471406322347
